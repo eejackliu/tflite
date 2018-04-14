@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/llm/androidproject/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/home/llm/.android/build-cache/35698b2f70090da1f0cb27ab7ec9b0be32343375/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/llm/androidproject/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/home/llm/.android/build-cache/35698b2f70090da1f0cb27ab7ec9b0be32343375/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    }
+]

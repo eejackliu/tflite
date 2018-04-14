@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/llm/androidproject/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/llm/.android/build-cache/1a25371bffa0f9e4231d76bace9e246ffc05115b/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/llm/androidproject/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/llm/.android/build-cache/1a25371bffa0f9e4231d76bace9e246ffc05115b/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/llm/androidproject/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/llm/.android/build-cache/1a25371bffa0f9e4231d76bace9e246ffc05115b/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/llm/androidproject/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/llm/.android/build-cache/1a25371bffa0f9e4231d76bace9e246ffc05115b/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

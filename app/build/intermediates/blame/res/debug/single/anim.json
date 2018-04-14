@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/home/llm/androidproject/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/home/llm/.android/build-cache/35698b2f70090da1f0cb27ab7ec9b0be32343375/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/llm/androidproject/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/llm/.android/build-cache/1a25371bffa0f9e4231d76bace9e246ffc05115b/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/llm/androidproject/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/home/llm/.android/build-cache/35698b2f70090da1f0cb27ab7ec9b0be32343375/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/home/llm/androidproject/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/llm/.android/build-cache/1a25371bffa0f9e4231d76bace9e246ffc05115b/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/llm/androidproject/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/llm/.android/build-cache/1a25371bffa0f9e4231d76bace9e246ffc05115b/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/llm/androidproject/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/home/llm/.android/build-cache/35698b2f70090da1f0cb27ab7ec9b0be32343375/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/home/llm/androidproject/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/home/llm/.android/build-cache/35698b2f70090da1f0cb27ab7ec9b0be32343375/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/llm/androidproject/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/home/llm/.android/build-cache/35698b2f70090da1f0cb27ab7ec9b0be32343375/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/home/llm/androidproject/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/llm/.android/build-cache/1a25371bffa0f9e4231d76bace9e246ffc05115b/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/llm/androidproject/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/home/llm/.android/build-cache/35698b2f70090da1f0cb27ab7ec9b0be32343375/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/home/llm/androidproject/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/llm/.android/build-cache/1a25371bffa0f9e4231d76bace9e246ffc05115b/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/llm/androidproject/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/llm/.android/build-cache/1a25371bffa0f9e4231d76bace9e246ffc05115b/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/llm/androidproject/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/llm/.android/build-cache/1a25371bffa0f9e4231d76bace9e246ffc05115b/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/llm/androidproject/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/llm/.android/build-cache/1a25371bffa0f9e4231d76bace9e246ffc05115b/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/llm/androidproject/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/llm/.android/build-cache/1a25371bffa0f9e4231d76bace9e246ffc05115b/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/llm/androidproject/tensorflow/tensorflow/contrib/lite/java/demo/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/llm/.android/build-cache/1a25371bffa0f9e4231d76bace9e246ffc05115b/output/res/anim/abc_slide_out_bottom.xml"
+    }
+]
